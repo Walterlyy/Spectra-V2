@@ -12,7 +12,7 @@
 + MassBan
 + Wizz
 
-# discord.gg/hackersop
+# discord.gg/cordreapers
 
 # config settings in config.json
 
